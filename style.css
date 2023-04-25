@@ -1,3 +1,13 @@
-h1{
-    color: red;
+/*Colores
+negro -> 080708
+azul -> 3772ff
+*/
+
+body{
+    background-color: #080708;
+    font-family: 'Poppins', sans-serif;
+}
+
+body *{
+    color: #3772ff;
 }
