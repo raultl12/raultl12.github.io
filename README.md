@@ -1,4 +1,4 @@
-# Repo con algunas de mis paginas
+# Repositorio de mi página personal
 
-* [Pagina personal](raultl12/)
-* [Una prueba que hice](calculadora/)
+En este repositorio se encuentra el código de mi página personal así como el código de otros proyectos
+que iré realizando con el tiempo.
