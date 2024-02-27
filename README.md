@@ -1,4 +1,7 @@
-# Repositorio de mi página personal
+# Mi página web personal
 
-En este repositorio se encuentra el código de mi página personal así como el código de otros proyectos
-que iré realizando con el tiempo.
+En esta página encontrarás información sobre mi y algunos de mis proyectos.
+
+Visitala haciendo click [aquí](https://raultl12.github.io/)
+
+Eres libre de descargarte el codigo y usarlo para tus páginas!

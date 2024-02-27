@@ -1,8 +1,10 @@
+import './App.css'
+
 function App() {
 
   return (
     <>
-      <h1>Raúl Torrente López</h1>
+      <h1>Raúl Torrente Lopez</h1>
     </>
   )
 }
